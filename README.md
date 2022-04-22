@@ -7,6 +7,6 @@ This file includes the following Individual Coding Exercises (ICE):
 5. [ICE5 - Missing Data Imputation](https://github.com/real-wyr/HUDK-4051/blob/d76b69f37ca8820cfd3cc5f23d3d288b5ee9abc4/ICE%205.ipynb)
 
 The three Mini LA Projects are also attached below:
-1. Classification and Prediction
-2. Knowledge Inference
-3. Recommender System
+1. [Classification and Prediction](https://github.com/real-wyr/HUDK-4051/blob/6c6cc8a7e2aca66732256fcae8367551ca12f2f1/Mini_LA_Assignment_Classification_Prediction.ipynb)
+2. [Knowledge Inference](https://github.com/real-wyr/HUDK-4051/blob/6c6cc8a7e2aca66732256fcae8367551ca12f2f1/Mini_LA_Assignment_Knowledge_Inference.ipynb)
+3. [Recommender System](https://github.com/real-wyr/HUDK-4051/blob/6c6cc8a7e2aca66732256fcae8367551ca12f2f1/Mini_LA_Assignment_Recommendation_System.ipynb)
