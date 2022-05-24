@@ -12,5 +12,4 @@ The three Mini LA Projects are also attached below:
 3. [Recommender System](https://github.com/real-wyr/HUDK-4051/blob/6c6cc8a7e2aca66732256fcae8367551ca12f2f1/Mini_LA_Assignment_Recommendation_System.ipynb)
 
 The final project is an improvement based on last semester's Creative EMD project (courses selection):
-
-[Final Project](https://github.com/real-wyr/HUDK-4051/blob/1675884cb44dd0b227a2cc25d589d9abbaf59c17/4051%20Final%20Project.pdf)
+- [Final Project](https://github.com/real-wyr/HUDK-4051/blob/1675884cb44dd0b227a2cc25d589d9abbaf59c17/4051%20Final%20Project.pdf)
