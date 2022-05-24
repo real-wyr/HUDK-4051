@@ -11,5 +11,5 @@ The three Mini LA Projects are also attached below:
 2. [Knowledge Inference](https://github.com/real-wyr/HUDK-4051/blob/6c6cc8a7e2aca66732256fcae8367551ca12f2f1/Mini_LA_Assignment_Knowledge_Inference.ipynb)
 3. [Recommender System](https://github.com/real-wyr/HUDK-4051/blob/6c6cc8a7e2aca66732256fcae8367551ca12f2f1/Mini_LA_Assignment_Recommendation_System.ipynb)
 
-As well as the final project:
-[Final Project]
+The final project is an improvement based on last semester's Creative EMD project (courses selection):
+[Final Project](https://github.com/real-wyr/HUDK-4051/blob/1675884cb44dd0b227a2cc25d589d9abbaf59c17/4051%20Final%20Project.pdf)
